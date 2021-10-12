@@ -11,4 +11,11 @@ The project consists in designing three figures using bezier curves:
 
 2. A digit with special font.
 
+![Digit 5](CifraPoligon.PNG)
+![Digit 5](Cifra.PNG)
+
+
 3. A complex figure.
+
+![Figure](FormaPoligon.PNG)
+![Figure](Forma.PNG)
