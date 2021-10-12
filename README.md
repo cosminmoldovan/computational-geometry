@@ -5,8 +5,10 @@ Font design using Bezier curves gives fonts greater scalability than designing t
 The project consists in designing three figures using bezier curves:
 
 1. A letter (upper or lower case) of a custom font.
+
 ![Letter M](LiteraPoligon.PNG)
 ![Letter M](Litera.PNG)
+
 2. A digit with special font.
 
 3. A complex figure.
