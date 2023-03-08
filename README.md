@@ -6,7 +6,7 @@ The project consists in designing three figures using bezier curves:
 
 1. A letter (upper or lower case) of a custom font.
 
-<div> <img alt="letter-poligon" src="LiteraPoligon.PNG" width=""50%> <img alt="leter-img" src="Litera.PNG" width=""50%></div>
+<div> <span><img alt="letter-poligon" src="LiteraPoligon.PNG" width=""50%></span> <span><img alt="leter-img" src="Litera.PNG" width=""50%></span></div>
 
 
 2. A digit with special font.
