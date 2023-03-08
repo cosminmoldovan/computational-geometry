@@ -6,15 +6,27 @@ The project consists in designing three figures using bezier curves:
 
 1. A letter (upper or lower case) of a custom font.
 
-<div> <span><img alt="letter-poligon" src="LiteraPoligon.PNG" width=""50%></span> <span><img alt="leter-img" src="Litera.PNG" width=""50%></span></div>
-
+<table>
+  <tr>
+    <td><img alt="letter-poligon" src="LiteraPoligon.PNG" width=""50%></td>
+    <td><img alt="leter-img" src="Litera.PNG" width=""50%></td>
+  </tr>
+</table>
 
 2. A digit with special font.
 
-<div> <img alt="digit-poligon" src="CifraPoligon.PNG" width=""50%> <img alt="digit-img" src="Cifra.PNG" width=""50%></div>
-
+<table>
+  <tr>
+    <td><img alt="digit-poligon" src="CifraPoligon.PNG" width=""50%></td>
+    <td><img alt="digit-img" src="Cifra.PNG" width=""50%></td>
+  </tr>
+</table>
 
 3. A complex figure.
 
-<div> <img alt="figure-poligon" src="FormaPoligon.PNG" width=""50%> <img alt="figure-img" src="Forma.PNG" width=""50%></div>
-
+<table>
+  <tr>
+    <td><img alt="figure-poligon" src="FormaPoligon.PNG" width=""50%></td>
+    <td><img alt="figure-img" src="Forma.PNG" width=""50%></td>
+  </tr>
+</table>
